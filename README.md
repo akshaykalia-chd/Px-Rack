@@ -26,3 +26,28 @@ Px-Rack/
 └── README.md
     └── Introduction to Px-Rack, build instructions, and licensing.
 ```
+# 📜 Terms and Conditions of Use
+
+By accessing or using the Px-Rack repository, you agree to the following terms:
+
+## 🔧 Personal and Lab Use Only
+- This repository is intended solely for **individual, non-commercial use**.
+- You may use the provided STL files and documentation to build Px-Rack units for:
+  - Personal projects
+  - Homelabs
+  - Educational setups
+  - Non-profit experimentation
+
+## 🚫 Commercial Restrictions
+- **Commercial use** of any files, designs, or derivatives is **strictly prohibited** without **explicit written permission** from the repository owner.
+- This includes, but is not limited to:
+  - Selling printed parts or assembled units
+  - Using Px-Rack designs in paid services or commercial installations
+  - Distributing modified versions for profit
+
+## 📝 Requesting Permission
+- To request commercial usage rights, please contact the repository owner via GitHub or the contact method listed in the main `README.md`.
+
+## 📁 Licensing
+- All files are provided "as is" without warranty. Users are responsible for safe printing, assembly, and deployment.
+- Redistribution of files must retain original attribution and must not misrepresent the origin or intent of the project.
