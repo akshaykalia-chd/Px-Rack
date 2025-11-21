@@ -1,6 +1,8 @@
 ## What is a Px-Rack
 
-Px-Rack is a modular DIY rack-style enclosure built for creators who value scalability, customization, and hands-on engineering. Designed to integrate multiple Mini-ITX motherboards into a single compact unit, Px-Rack is ideal for homelabs, clustered compute nodes, or multi-OS test environments.
+Px-Rack is a modular DIY computer rack-style enclosure built for creators who value scalability, customization, and hands-on engineering. Designed to integrate multiple [Mini-ITX](https://en.wikipedia.org/wiki/Mini-ITX) motherboards into a single compact unit, Px-Rack is ideal for homelabs, clustered compute nodes, or multi-OS test environments.
+
+The first use case is [Broadcom VMware Cloud Foundation](https://www.vmware.com/products/cloud-infrastructure/vmware-cloud-foundation). 
 
 ## What sets Px-Rack apart? 
 Most of its structural components are 3D printable, making it accessible and affordable for solo builders and makers. This GitHub repository provides all the STL files you need to start printing and assembling your own Px-Rack—no proprietary parts, no guesswork, just open-source flexibility and community-driven design.
