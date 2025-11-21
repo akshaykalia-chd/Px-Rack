@@ -11,9 +11,12 @@ Whether you're optimizing airflow, managing cables, or experimenting with multi-
 ```
 Px-Rack/
 ├── BOMs/
-│   ├── 2-Node_BOM.csv
-│   ├── 3-Node_BOM.csv
-│   └── 4-Node_BOM.csv
+│   ├──2-Node/
+│   │   ├── 2-Node_BOM.csv
+│   ├──3-Node/   
+│   │   ├── 3-Node_BOM.csv
+│   ├──4-Node/
+│   │   ├── 4-Node_BOM.csv
 │
 ├── STL/
 │   ├── ABS/
@@ -51,3 +54,9 @@ By accessing or using the Px-Rack repository, you agree to the following terms:
 ## 📁 Licensing
 - All files are provided "as is" without warranty. Users are responsible for safe printing, assembly, and deployment.
 - Redistribution of files must retain original attribution and must not misrepresent the origin or intent of the project.
+
+## Contact details
+- **Name:** Akshay Kalia
+- **Email:** akshay@vmzoneblog.com
+- **Location:** Bengaluru, Karnataka, India
+- **Website:** https://vmzoneblog.com
