@@ -5,11 +5,15 @@ Personal Experience Rack, or Px-Rack, is a modular DIY computer rack-style enclo
 The first use case is [Broadcom VMware Cloud Foundation](https://www.vmware.com/products/cloud-infrastructure/vmware-cloud-foundation). 
 
 ## What sets Px-Rack apart? 
-Portable. Other racks are not purpose-built for VMware ESXi hosts, resulting in multiple external power cables and network cables. The width and length, as opposed to the height, are critical to ensure cables (10 Gb optical fibre and power cables) are neatly tucked inside. 
+Portable. Other racks are not purpose-built for commercial hardware. They either target Datacenters or Server-rooms thus resulting in multiple external power cables and network cables. The width and length, as opposed to the height, are critical to ensure cables (10 Gb optical fibre and power cables) are neatly tucked inside. 
 
-1 power cable. Px-Rack has ___ that connects multiple power supplies into a single external cable. No need to carry extension cords!
+1 power cable. Px-Rack  uses the internals for a standard ATX PSU and connects them togather using PCT Wire Connectors.  Hence, multiple power supplies get aggregated into a single external cable. No need to carry extension cords!. The use of PCT Wire Connectors eliminates the need to soldiering.  
 
-Most of its structural components are 3D printable, making it accessible and affordable for solo builders and makers. This GitHub repository provides all the STL files you need to start printing and assembling your own Px-Rack—no proprietary parts, no guesswork, just open-source flexibility and community-driven design.
+![img.png](img/img.png) 
+![img.png](img/img_2.png)
+![img_1.png](img/img_1.png)
+
+Further, most of its structural components are 3D printable, making it accessible and affordable for solo builders and makers. This GitHub repository provides all the STL files you need to start printing and assembling your own Px-Rack—no proprietary parts, no guesswork, just open-source flexibility and community-driven design.
 
 Whether you're optimizing airflow, managing cables, or experimenting with multi-node setups, Px-Rack gives you the freedom to build your infrastructure your way.
 
