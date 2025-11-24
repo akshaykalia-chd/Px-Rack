@@ -5,28 +5,43 @@ Personal Experience Rack, or Px-Rack, is a modular DIY computer rack-style enclo
 The first use case is [Broadcom VMware Cloud Foundation](https://www.vmware.com/products/cloud-infrastructure/vmware-cloud-foundation). 
 
 ## What sets Px-Rack apart? 
-Portable. Other racks are not purpose-built for commercial hardware. They either target Datacenters or Server-rooms thus resulting in multiple external power cables and network cables. The width and length, as opposed to the height, are critical to ensure cables (10 Gb optical fibre and power cables) are neatly tucked inside. 
 
-1 power cable. Px-Rack  uses the internals for a standard ATX PSU and connects them togather using PCT Wire Connectors.  Hence, multiple power supplies get aggregated into a single external cable. No need to carry extension cords!. The use of PCT Wire Connectors eliminates the need to soldiering.  
+It is Portable, Purpose-Built, and Open-Source
+
+**🔌 Streamlined Power Management**
+Unlike traditional racks designed for data centers or server rooms, PX-Rack is purpose-built for commercial hardware. Instead of juggling multiple external power cables, PX-Rack aggregates multiple power supplies into a single external cable using PCT wire connectors.
+- No need for extension cords
+- No soldering required
+- Clean, efficient cable management
+
+**PCT wire connectors:**
 
 ![img.png](img/img.png) 
 ![img.png](img/img_2.png)
 ![img_1.png](img/img_1.png)
 
-Further, most of its structural components are 3D printable, making it accessible and affordable for solo builders and makers. This GitHub repository provides all the STL files you need to start printing and assembling your own Px-Rack—no proprietary parts, no guesswork, just open-source flexibility and community-driven design.
 
-Whether you're optimizing airflow, managing cables, or experimenting with multi-node setups, Px-Rack gives you the freedom to build your infrastructure your way.
+**📏 Optimized Dimensions**
+Width and length — not height — are the critical factors in PX-Rack’s design. This ensures that 10 Gb optical fiber and power cables are neatly tucked inside, reducing clutter and improving accessibility.
+
+**🛠 Maker-Friendly Construction**
+Most of PX-Rack’s structural components are 3D-printable, making it accessible and affordable for solo builders and makers.
+- STL files available via GitHub
+- No proprietary parts
+- Community-driven, open-source flexibility
+
+**🌬 Airflow & Multi-Node Freedom**
+Whether you’re optimizing airflow, managing cables, or experimenting with multi-node setups, PX-Rack gives you the freedom to build infrastructure your way. It’s a platform designed for experimentation, customization, and scalability.
 
 ## Repository stroucture 
 ```
 Px-Rack/
-├── BOMs/
-│   ├──2-Node/
-│   │   ├── 2-Node_BOM.csv
-│   ├──3-Node/   
-│   │   ├── 3-Node_BOM.csv
-│   ├──4-Node/
-│   │   ├── 4-Node_BOM.csv
+├──2-Node/
+│   ├── Data for 2-Node Unit
+├──3-Node/   
+│   ├── Data for 3-Node Unit
+├──4-Node/
+│   ├── Data for 4-Node Unit
 │
 ├── STL/
 │   ├── ABS/
