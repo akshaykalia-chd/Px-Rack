@@ -1,6 +1,9 @@
-### Sample Part Links
-**L-Clamp**: https://robu.in/product/easymech-cast-corner-bracket-for-20x20-aluminium-profile-silver-4-pcs/
+The directory contains PDF files showing the various steps involved in assembling the PX-Rack 2-node enclosure.
 
-**Extrution**:https://robu.in/product/easymech-20x20-t-slot-aluminium-extrusion-profile-1000-mm/
+Each step includes a parts list along with the required mounting screws and nuts. Before starting to follow the drawings in this section, make sure you have purchased all the required components and 3D-printed all the necessary parts.
 
-**Mounting Screws**: https://robu.in/product/t-type-m4-nut-for-20x20-aluminium-profile-10-pcs/
+The build steps do not cover electronics integration. This is intentional. Before ordering the electronics and attempting integration, I recommend that you fully assemble the PX-Rack enclosure.
+
+Electronics integration will take place after Step 2, and by the end of Step 3 all electronics should be in place, except for the ventilation fans. The fans will be installed after Step 4 and before Step 5.
+
+Electronics integration is slightly nuanced and cannot be explained adequately using drawings. I will include videos for this process in the near future.
