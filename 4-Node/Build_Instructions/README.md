@@ -9,4 +9,4 @@ However, Electronics integration will take place after **Step-2**, and by the en
 
 *Electronics integration is slightly nuanced and cannot be explained adequately using drawings. I will include videos for this process in the near future.*
 
-![](img/4-Node.png)
+![img.png](../../img/4-Node.png)  
