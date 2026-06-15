@@ -5,18 +5,23 @@ Personal Experience Rack, or Px-Rack, is a modular DIY computer rack-style enclo
 The first use case is [Broadcom VMware Cloud Foundation](https://www.vmware.com/products/cloud-infrastructure/vmware-cloud-foundation). 
 
 ### 2-Node Px-Rack Enclosure: ### 
-![img.png](img/2-Node.png)
+#### Render:
+<img src="img/2-Node.png" width="400" alt="2-Node Render">
+
+#### Actual: 
+
+Not built, hence no images are available. However, it will be identical to the bottom half of a 4-node Enclosure
 
 ### 4-Node Px-Rack Enclosure: ### 
 #### Render:
-![img.png](img/4-Node.png)  
+<img src="img/4-Node.png" width="400" alt="4-Node Render">
 
 #### Actual:
-![PXL_20260615_102755458.MP.jpg](img/4-Node/PXL_20260615_102755458.MP.jpg)
-![PXL_20260615_102803558.MP.jpg](img/4-Node/PXL_20260615_102803558.MP.jpg)
-![PXL_20260615_102811210.MP.jpg](img/4-Node/PXL_20260615_102811210.MP.jpg)
-![PXL_20260615_102823585.MP.jpg](img/4-Node/PXL_20260615_102823585.MP.jpg)
-![PXL_20260615_102832643.MP.jpg](img/4-Node/PXL_20260615_102832643.MP.jpg)
+<img src="img/4-Node/PXL_20260615_102755458.MP.jpg" width="350" alt="4-Node actual 1">
+<img src="img/4-Node/PXL_20260615_102803558.MP.jpg" width="350" alt="4-Node actual 2">
+<img src="img/4-Node/PXL_20260615_102811210.MP.jpg" width="350" alt="4-Node actual 3">
+<img src="img/4-Node/PXL_20260615_102823585.MP.jpg" width="350" alt="4-Node actual 4">
+<img src="img/4-Node/PXL_20260615_102832643.MP.jpg" width="350" alt="4-Node actual 5">
 
 ## What sets Px-Rack apart? 
 
@@ -30,9 +35,9 @@ Unlike traditional racks designed for data centers or server rooms, PX-Rack is p
 
 **PCT wire connectors:**
 
-![img.png](img/PTC-2-Terminal.png) 
-![img.png](img/PCT-2T.png)
-![img_1.png](img/PCT-3x2.png)
+<img src="img/PTC-2-Terminal.png" width="200" alt="PCT 2-Terminal">
+<img src="img/PCT-2T.png" width="200" alt="PCT 2T">
+<img src="img/PCT-3x2.png" width="200" alt="PCT 3x2">
 
 
 **📏 Optimized Dimensions**
@@ -47,7 +52,7 @@ Most of PX-Rack’s structural components are 3D-printable, making it accessible
 **🌬 Airflow & Multi-Node Freedom**
 Whether you’re optimizing airflow, managing cables, or experimenting with multi-node setups, PX-Rack gives you the freedom to build infrastructure your way. It’s a platform designed for experimentation, customization, and scalability.
 
-## Repository stroucture 
+## Repository structure 
 ```
 Px-Rack/
 ├──BOM/

@@ -2,7 +2,7 @@ The File covers the quantity of various parts required to build a PX-Rack enclos
 
 ### 2-Node Px-Rack Enclosure: ### 
 
-![2-Node.png](../img/2-Node.png)
+<img src="../img/2-Node.png" width="400" alt="2-Node Render">
 
 A 2 node PX-Rack enclosure has 17 parts that need 3D printing. The quantity of each part required is as under
 
@@ -26,7 +26,7 @@ A 2 node PX-Rack enclosure has 17 parts that need 3D printing. The quantity of e
 
 ### 4-Node Px-Rack Enclosure: ### 
 
-![4-Node.png](../img/4-Node.png)
+<img src="../img/4-Node.png" width="400" alt="4-Node Render">
 
 A 4 node PX-Rack enclosure has 22 parts that need 3D printing. The quantity of each part required is as under
 

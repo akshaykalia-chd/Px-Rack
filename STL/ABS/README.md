@@ -30,8 +30,8 @@ The STL must be printed using the following parameters at a minimum. Stronger an
 ### Strength ###
 
 1. Top Surface pattern: Monotonic Line 
-2. Botton Surface pattern:Monotonic Line
+2. Bottom Surface pattern: Monotonic Line
 3. Sparse Infill density: 20%
-4. Sparse Infill pattern: Gyriod
+4. Sparse Infill pattern: Gyroid
 5. Internal solid Infill pattern: Monotonic
 
