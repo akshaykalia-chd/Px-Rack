@@ -4,6 +4,17 @@ Personal Experience Rack, or Px-Rack, is a modular DIY computer rack-style enclo
 
 The first use case is [Broadcom VMware Cloud Foundation](https://www.vmware.com/products/cloud-infrastructure/vmware-cloud-foundation). 
 
+## 🛠️ Skills Required to Build a Px-Rack
+
+Building a Px-Rack is not a beginner project. You will need:
+
+1. **Miter saw** — for cutting extrusions and structural components to precise lengths
+2. **Soldering** — primarily a safety net for human error during wiring
+3. **Specialty tools** — screwdrivers and Allen keys in M2, M3, and M4 sizes, plus Torx drivers T2, T3, and T4
+4. **ATX power supply disassembly** — you will need to open and modify a standard ATX PSU
+
+> If any of these sound daunting, that is perfectly reasonable. Reach out using the details in the [Contact details](#-contact-details) section to order a pre-built Px-Rack — or engage directly with the designer if you are mad enough to attempt this yourself.
+
 ### 2-Node Px-Rack Enclosure: ### 
 #### Render:
 <img src="img/2-Node.png" width="400" alt="2-Node Render">
