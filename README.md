@@ -50,23 +50,19 @@ Whether you’re optimizing airflow, managing cables, or experimenting with mult
 ## Repository stroucture 
 ```
 Px-Rack/
-├──2-Node/
-│   ├── Data for 2-Node Unit
-├──3-Node/   
-│   ├── Data for 3-Node Unit
-├──4-Node/
-│   ├── Data for 4-Node Unit
+├──BOM/
+│   ├──README.md      
 │
 ├── STL/
 │   ├── ABS/
-│   │   ├── PART_001_ABS.stl
-│   │   ├── PART_002_ABS.stl
+│   │   ├── PART_NAME01.stl
+│   │   ├── PART_NAME02.stl
 │   │
 │   ├── PLA_PETG/
-│   │   ├── PART_001_PLA.stl
-│   │   ├── PART_002_PLA.stl
+│   │   ├── PART_Name01.stl
+│   │   ├── PART_Name01.stl
 └── README.md
-    └── Introduction to Px-Rack, build instructions, and licensing.
+    └── Introduction to Px-Rack, and licensing.
 ```
 # 📜 Terms and Conditions of Use
 
