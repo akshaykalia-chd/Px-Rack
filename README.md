@@ -34,6 +34,15 @@ Not built, hence no images are available. However, it will be identical to the b
 <img src="img/4-Node/PXL_20260615_102823585.MP.jpg" width="350" alt="4-Node actual 4">
 <img src="img/4-Node/PXL_20260615_102832643.MP.jpg" width="350" alt="4-Node actual 5">
 
+### Px-Rack vs Full Tower
+On the left Px-Rack and On the right Cooler Master Full Tower Case 
+
+<img src="img/4-Node/PXL_20260615_170037353.jpg" width="500" alt="4-Node actual 5">
+
+<video width="600" controls>
+  <source src="img/4-Node/PXL_20260615_170057228%7E2.mp4" type="video/mp4">
+</video>
+
 ## What sets Px-Rack apart? 
 
 It is Portable, Purpose-Built, and Open-Source
