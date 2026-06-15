@@ -8,8 +8,15 @@ The first use case is [Broadcom VMware Cloud Foundation](https://www.vmware.com/
 ![img.png](img/2-Node.png)
 
 ### 4-Node Px-Rack Enclosure: ### 
+#### Render:
 ![img.png](img/4-Node.png)  
 
+#### Actual:
+![PXL_20260615_102755458.MP.jpg](img/4-Node/PXL_20260615_102755458.MP.jpg)
+![PXL_20260615_102803558.MP.jpg](img/4-Node/PXL_20260615_102803558.MP.jpg)
+![PXL_20260615_102811210.MP.jpg](img/4-Node/PXL_20260615_102811210.MP.jpg)
+![PXL_20260615_102823585.MP.jpg](img/4-Node/PXL_20260615_102823585.MP.jpg)
+![PXL_20260615_102832643.MP.jpg](img/4-Node/PXL_20260615_102832643.MP.jpg)
 
 ## What sets Px-Rack apart? 
 
