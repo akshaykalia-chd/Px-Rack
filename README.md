@@ -52,7 +52,7 @@ Unlike traditional racks designed for data centers or server rooms, PX-Rack is p
 
 
 **📏 Optimized Dimensions**
-Width and length — not height — are the critical factors in PX-Rack’s design. This ensures that 10 Gb optical fiber and power cables are neatly tucked inside, reducing clutter and improving accessibility.
+Width and length — not height — are the critical factors in PX-Rack’s design. 10 Gb optical fiber cables are neatly routed from the side and back to a switch integrated into the rack. The cables move with the rack, so there is no need to recable when shifting locations. With switch I/O remaining easily accessible, network retopology is straightforward — a true lab must-have.
 
 **🛠 Maker-Friendly Construction**
 Most of PX-Rack’s structural components are 3D-printable, making it accessible and affordable for solo builders and makers.
