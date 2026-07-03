@@ -109,11 +109,15 @@ Homelabbers and VMware/VCF engineers in India building multi-node compute enviro
 - **Compute density**: PX-Rack 4-Node = 4 independent Mini-ITX nodes vs 1 dual-socket board in a typical 1U/2U server
 - **Cooling**: PX-Rack runs 8x 120mm fans, push-pull, at fixed full speed at all times (no fan curve) vs small high-RPM fans in 1U / larger slower fans in 2U that usually ramp with load
 - **Noise, system off**: baseline room noise vs ~25 dBA idle (1U, e.g. Dell PowerEdge R630) / ~30–40 dBA idle (2U)
-- **Noise, system running**: PX-Rack ~78 dB (constant, since fans never throttle down) vs 1U servers commonly high-70s to 90+ dB under full load ("jet engine" fan spin-up is a known 1U trait), 2U servers ~38–65 dB (2U is almost always the quieter class)
+- **Noise, system running**: PX-Rack ~78 dB (constant, since fans never throttle down) vs 1U servers commonly high-70s to 90+ dB under full load ("jet engine" fan spin-up is a known 1U trait), 2U servers ~38–65 dB.
 
-Is 78 dB loud for server gear? Not particularly — it lands squarely inside the range enterprise 1U servers reach under full thermal load. It's louder than a 2U server, but that's expected: PX-Rack is doing 1U-style airflow work across 4 independent nodes, not one, and its fans run at fixed full speed continuously rather than ramping with load.
+Is 78 dB loud for server gear? 
 
-_How it was measured:_ Google Pixel 8 Pro decibel-meter app, phone placed directly on top of the chassis, comparing system-off vs system-on. This is a near-field, single-device reading, not a calibrated sound meter at the standardized 1-meter bystander position vendor datasheets use — so it's a directional comparison, not a strict apples-to-apples one. If anything, the PX-Rack number likely reads a bit higher than an equivalent 1m measurement would.
+Not particularly — it lands inside the range enterprise 1U servers reach under full thermal load. It's louder than a 2U server, but that's expected: PX-Rack is doing 1U-style airflow work across 4 independent nodes, not one, and its fans run at fixed full speed continuously rather than ramping with load. It is possible to tune the Mini-ITX motherboards to run quiet. However, this many cause CPU to thermal throttle.
+
+_How it was measured:_ 
+
+Google Pixel 8 Pro decibel-meter app, phone placed directly on top of the chassis, comparing system-off vs system-on. This is a near-field, single-device reading, not a calibrated sound meter at the standardized 1-meter bystander position vendor datasheets use — so it's a directional comparison, not a strict apples-to-apples one. If anything, the PX-Rack number likely reads a bit higher than an equivalent 1m measurement would.
 
 ### Core Value Arguments
 
