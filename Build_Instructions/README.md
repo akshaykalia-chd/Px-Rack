@@ -1,5 +1,7 @@
 The file covers the quantity of various parts required to build a PX-Rack enclosure.
 
+For step-by-step build instructions, see [Assembly-Steps.md](Assembly-Steps.md).
+
 ### 2-Node PX-Rack Enclosure: ### 
 
 <img src="../img/2-Node.png" width="400" alt="2-Node Render">
