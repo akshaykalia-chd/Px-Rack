@@ -1,6 +1,6 @@
 ## Folder Contents: ## 
 
-This folder contains 10 STL files as under 
+This folder contains 10 STL files as under: 
 
 1. Foot.stl
 2. HDD-Mount.stl
@@ -13,7 +13,7 @@ This folder contains 10 STL files as under
 9. Power-Mount-Grill.stl
 10. Power-Mount-PCB-Holder-Plate.stl
 
-The STL must be printed using the following parameters at a minimum. Stronger and higher-quality configurations are acceptable
+The STL must be printed using the following parameters at a minimum. Stronger and higher-quality configurations are acceptable.
 
 ## 3D Print parameters ##
 

@@ -1,6 +1,6 @@
 ## Folder Contents: ## 
 
-This folder contains 13 STL files as under 
+This folder contains 13 STL files as under: 
 
 1. 240mm-Banding.stl
 2. 25x265 Banding.stl
@@ -16,7 +16,7 @@ This folder contains 13 STL files as under
 12. Switch-Banding.stl
 13. Top-Cover.stl
 
-The STL must be printed using the following parameters at a minimum. Stronger and higher-quality configurations are acceptable
+The STL must be printed using the following parameters at a minimum. Stronger and higher-quality configurations are acceptable.
 
 ## 3D Print parameters ##
 
