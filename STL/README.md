@@ -1,5 +1,7 @@
 This folder contains all STL files needed to 3D print the various parts of the PX-Rack.
 
+The `Templates/` subfolder contains DXF files used as importable modules within the part designs. Where multiple parts require the exact same cut (side panels, top/bottom covers, and the switch bush), the cut was defined once as a DXF template and imported into each design for consistency, rather than being redrawn each time.
+
 ## FAQs ##
 
 ### What is STL? ###

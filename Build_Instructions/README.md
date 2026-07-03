@@ -27,23 +27,24 @@ A 2 node PX-Rack enclosure has 18 parts that need 3D printing. The quantity of e
 
 To assemble a 2 Node PX-Rack enclosure, you will need following parts
 
-1. 20mm x 20mm Aluminum extrusions of the sizes lister as under 
+1. <a href="../img/20x20_Extrusion.png"><img src="../img/20x20_Extrusion.png" width="40" alt="Aluminum Extrusion"></a> 20mm x 20mm Aluminum extrusions of the sizes lister as under 
    1. 350 mm - 6
    2. 200 mm - 4
    3. 300 mm - 4
-2. In Corner Slot Connector - 8
-3. Corner Bracket - 16
-4. M4 MS Sliding T Nut For 2020 Series Aluminum extrusions - 150 
+2. <a href="../img/CornerSlotConnector.png"><img src="../img/CornerSlotConnector.png" width="40" alt="In Corner Slot Connector"></a> In Corner Slot Connector - 8
+3. <a href="../img/L-Clamp.png"><img src="../img/L-Clamp.png" width="40" alt="Corner Bracket"></a> Corner Bracket - 16
+4. <a href="../img/T-Nut.png"><img src="../img/T-Nut.png" width="40" alt="M4 T-Nut"></a> M4 MS Sliding T Nut For 2020 Series Aluminum extrusions - 150 
 5. M4,M3 Nuts and Bolts 10 mm - 20
 6. M4,M3 Nuts and Bolts 12 mm - 20
 7. M4,M3 Nuts and Bolts 16 mm - 20
 8. M3 Standoffs/Spacers Female to Female - 30 
 9. M3 Headless Nuts - 30
 10. ATX power supplies 400w - 2
-11. Push buttons - 4
-12. LT-633(SPL-63) Stationary, Type Quick Connection, Terminal - 1
-13. LT-933(SPL-93) Stationary Type Quick Connection Terminal - 1 
-14. IEC, C14 10 AMP Power connector - 1
+11. <a href="../img/Switch.png"><img src="../img/Switch.png" width="40" alt="Push Button"></a> Push buttons - 4
+12. <a href="../img/Switch_Con.png"><img src="../img/Switch_Con.png" width="40" alt="Push Button Wire Set"></a> Push button Wire Set - 4 
+12. <a href="../img/LT-633.png"><img src="../img/LT-633.png" width="40" alt="LT-633 Terminal"></a> LT-633(SPL-63) Stationary, Type Quick Connection, Terminal - 1
+13. <a href="../img/LT-933.png"><img src="../img/LT-933.png" width="40" alt="LT-933 Terminal"></a> LT-933(SPL-93) Stationary Type Quick Connection Terminal - 1 
+14. <a href="../img/Power-Conn.png"><img src="../img/Power-Conn.png" width="40" alt="IEC C14 Connector"></a> IEC, C14 10 AMP Power connector - 1
 15. Push Fit lugs compatible with your IEC, C14 10 AMP Power connector - 5 
 16. 120mm Cooling Fans - 2 (additional to the 2 fans included with the 2 ATX PSUs)
 17. 3-Core 1.5 mm² PVC Insulated Flexible Copper Cable (IS 694) - 5 metre
@@ -80,24 +81,25 @@ A 4 node PX-Rack enclosure has 23 parts that need 3D printing. The quantity of e
 
 To assemble a 2 Node PX-Rack enclosure, you will need following parts
 
-1. 20mm x 20mm Aluminum extrusions of the sizes lister as under 
+1. <a href="../img/20x20_Extrusion.png"><img src="../img/20x20_Extrusion.png" width="40" alt="Aluminum Extrusion"></a> 20mm x 20mm Aluminum extrusions of the sizes lister as under 
    1. 700 mm - 6
    2. 200 mm - 4
    3. 300 mm - 4
    4. 45 mm - 1
-2. In Corner Slot Connector - 10
-3. Corner Bracket - 16
-4. M4 MS Sliding T Nut For 2020 Series Aluminum extrusions - 300 
+2. <a href="../img/CornerSlotConnector.png"><img src="../img/CornerSlotConnector.png" width="40" alt="In Corner Slot Connector"></a> In Corner Slot Connector - 10
+3. <a href="../img/L-Clamp.png"><img src="../img/L-Clamp.png" width="40" alt="Corner Bracket"></a> Corner Bracket - 16
+4. <a href="../img/T-Nut.png"><img src="../img/T-Nut.png" width="40" alt="M4 T-Nut"></a> M4 MS Sliding T Nut For 2020 Series Aluminum extrusions - 300 
 5. M4,M3 Nuts and Bolts 10 mm - 40
 6. M4,M3 Nuts and Bolts 12 mm - 40
 7. M4,M3 Nuts and Bolts 16 mm - 40
 8. M3 Standoffs/Spacers Female to Female - 60 
 9. M3 Headless Nuts - 60
 10. ATX power supplies 400w - 4
-11. Push buttons - 8
-12. LT-633(SPL-63) Stationary, Type Quick Connection, Terminal - 2
-13. LT-933(SPL-93) Stationary Type Quick Connection Terminal - 1 
-14. IEC, C14 10 AMP Power connector - 1
+11. <a href="../img/Switch.png"><img src="../img/Switch.png" width="40" alt="Push Button"></a> Push buttons - 8
+12. <a href="../img/Switch_Con.png"><img src="../img/Switch_Con.png" width="40" alt="Push Button Wire Set"></a> Push button Wire Set - 8
+12. <a href="../img/LT-633.png"><img src="../img/LT-633.png" width="40" alt="LT-633 Terminal"></a> LT-633(SPL-63) Stationary, Type Quick Connection, Terminal - 2
+13. <a href="../img/LT-933.png"><img src="../img/LT-933.png" width="40" alt="LT-933 Terminal"></a> LT-933(SPL-93) Stationary Type Quick Connection Terminal - 1 
+14. <a href="../img/Power-Conn.png"><img src="../img/Power-Conn.png" width="40" alt="IEC C14 Connector"></a> IEC, C14 10 AMP Power connector - 1
 15. Push Fit lugs compatible with your IEC, C14 10 AMP Power connector - 5 
 16. 120mm Cooling Fans - 4 (additional to the 4 fans included with the 4 ATX PSUs)
 17. 3-Core 1.5 mm² PVC Insulated Flexible Copper Cable (IS 694) - 5 metre
